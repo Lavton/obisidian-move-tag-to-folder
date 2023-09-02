@@ -1,0 +1,11 @@
+{
+	"id": "move-tag-to-folder",
+	"name": "Move Tag To Folder",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "move all notes with specific tag to specific folder and reverse. So you can focus on these notes.",
+	"author": "lavton",
+ "authorUrl": "https://obsidian.md",
+ "fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
